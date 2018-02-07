@@ -1,3 +1,6 @@
 virtualenv >= 15.1.0
 Scrapy >= 1.5.0
 pypiwin32 == 220
+requests >= 2.18.4
+pymysql >= 0.8.0
+
